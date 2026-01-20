@@ -1,4 +1,4 @@
-# QA Automation Journey with Pytest
+# QA Automation Journey
 
 This repository documents my hands-on journey from Python testing fundamentals to building a structured QA automation framework using Pytest.
 
